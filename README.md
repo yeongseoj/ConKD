@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Towards a Unified Conversational Recommendation System:<br>Multi-task Learning via Contextualized Knowledge Distillation**  
+# **Towards a Unified Conversational Recommendation System: Multi-task Learning via Contextualized Knowledge Distillation**  
 
 Yeongseo Jung, Eunseo Jung, Lei Chen  
 Department of CSE, HKUST
